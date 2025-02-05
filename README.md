@@ -1,2 +1,3 @@
 # django_gines
-código Django
+código Django de un elemento CRUD similar al realizado en php
+
